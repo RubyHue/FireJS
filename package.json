@@ -2,5 +2,8 @@
   "version" : "0.0.0",
   "dependencies": {
     "css-loader" : "^5.0.0"
+  },
+  "resolutions": {
+    "css-loader/postcss": "^2.3.0"
   }
 }
