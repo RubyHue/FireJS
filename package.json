@@ -1,9 +1,6 @@
 {
-  "version" : "0.0.0",
-  "dependencies": {
-    "css-loader" : "^5.0.0"
-  },
+  "version" : "1.0.0",
   "resolutions": {
-    "css-loader/postcss": "^2.2.6"
+    "gatsby/css-loader": "^6.3.0"
   }
 }
