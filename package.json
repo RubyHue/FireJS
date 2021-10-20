@@ -1,6 +1,6 @@
 {
   "version" : "1.0.0",
   "resolutions": {
-    "gatsby/css-loader": "^6.3.0"
+    "semver/lru-cache": "^5.0.0"
   }
 }
